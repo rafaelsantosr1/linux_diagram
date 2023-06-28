@@ -20,8 +20,8 @@ classDef springgreen fill:#00ff7f,stroke:#000,stroke-width:2px,color:#fff
 classDef darkseagreen fill:#8fbc8f, stroke:#000, stroke-width:2px,color:#fff
 classDef white fill:#ffffff, stroke:#000, stroke-width:2px,color:#fff
 
-A(["`raiz do sistema
- / `"])
+A(["raiz do sistema
+ / "])
 B(/bin):::blue
 C(/boot):::green
 D(/dev):::royalblue
